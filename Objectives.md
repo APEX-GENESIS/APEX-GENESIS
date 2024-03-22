@@ -1,6 +1,6 @@
 # MASTER OBJECTIVES #
 
-# Objective Tasks
+# Objective Tasks #
 
 ## Inventions
 
