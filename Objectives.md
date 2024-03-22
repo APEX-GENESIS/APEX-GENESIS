@@ -1,4 +1,4 @@
-# MASTER OBJECTIVES
+# MASTER OBJECTIVES #
 
 # Objective Tasks
 
@@ -11,7 +11,6 @@
 * HaloGram Projector: a holo-generator projection materialization unit
 * TV Lens: contact lenses with built-in TV screens that allow viewing
 * HyperDrive Matrix: em drive technology for space travel one day soon
-
 
 
 # Software Architecture
@@ -61,7 +60,6 @@
 * 100: Spring Boot developments
 * 100: Linux Package developments
 * 100: Mobile Platform developments
-
 
 
 # Hardware Architecture
