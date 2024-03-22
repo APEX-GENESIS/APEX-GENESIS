@@ -15,7 +15,7 @@
 
 # Software Architecture #
 
-## Development
+## Development ##
 
 * 100: C 2D games
 * 100: C# 2D games
@@ -42,7 +42,7 @@
 * 100: MySQL Server Databases
 * 100: MongoDB Server Databases
 
-## Collaborate
+## Collaborate ##
 
 * 100: AWS developments
 * 100: GCP developments
@@ -64,7 +64,7 @@
 
 # Hardware Architecture #
 
-## Engineer
+## Engineer ##
 
 * 100: PIC platform developments
 * 100: AVR platform developments
