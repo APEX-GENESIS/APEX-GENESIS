@@ -2,7 +2,7 @@
 
 # Objective Tasks #
 
-## Inventions
+## Inventions ##
 
 * BrainWave Tranciever: basic brain wave reader with precision accuracy
 * Wireless Energy: free wireless energy with a strong power reception
