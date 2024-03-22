@@ -13,7 +13,7 @@
 * HyperDrive Matrix: em drive technology for space travel one day soon
 
 
-# Software Architecture
+# Software Architecture #
 
 ## Development
 
@@ -62,7 +62,7 @@
 * 100: Mobile Platform developments
 
 
-# Hardware Architecture
+# Hardware Architecture #
 
 ## Engineer
 
