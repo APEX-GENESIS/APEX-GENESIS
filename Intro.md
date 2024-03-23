@@ -1,4 +1,4 @@
-# Welcome to Apex-Genesis #
+# Welcome to Apex-Genesis
 
 All Software languages have set principles and guidelines that we must follow to utilize the language at its maximum potential.
 In the beginning, there is always a struggle to grasp the task at hand and adapt to the changes that we currently are going through.
