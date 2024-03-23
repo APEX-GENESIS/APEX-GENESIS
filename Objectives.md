@@ -1,24 +1,5 @@
-# MASTER OBJECTIVES #
-
-## Objective Tasks ##
-
-### Buiilds ###
-
-* __MiniMe__: ASRock A520M-ITX/ac motherboard and Windows OS
-* __Fatal1ty__: ASRock BB360 Gaming K4 motherboard and Windows OS
-* __GoldenBoy__: MSI B450 Gaming Pro Carbon AC motherboard and Windows OS
-
-### Inventions ###
-
-* __BrainWave Transceiver__: Basic brain wave reader with precision accuracy
-* __Wireless Energy__: Free wireless energy with a strong power reception
-* __Electro-Pneumatic Turbine Engine__: This is a car engine that runs on air
-* __Quantum Flux Processor__: Quantum flux processor matrix logical unit
-* __HaloGram Projector__: A holo-generator projection materialization unit
-* __TV Lens__: Contact lenses with built-in TV screens that allow viewing
-* __HyperDrive Matrix__: EM drive technology for space travel one day soon
+# __MASTER OBJECTIVES__ #
   
-
 ## Software Architecture ##
 
 ### Development ###
@@ -34,9 +15,9 @@
 * 100: __REST__ 2D Games
 * 100: __Ruby__ 2D Games
 * 100: __Flask__ 2D Games
+* 100: __Vue.js__ 2D Games
 * 100: __Django__ 2D Games
 * 100: __Python__ 2D Games
-* 100: __Vue.js__ 2D Games
 * 100: __PySpark__ 2D Games
 * 100: __React.js__ 2D Games
 * 100: __.NET Core__ 2D Games
@@ -57,8 +38,8 @@
 * 100: __RDBMS__ Developments
 * 100: __Groovy__ Developments
 * 100: __DevOps__ Developments
-* 100: __Web App__ Developments
 * 100: __Jenkins__ Developments
+* 100: __Web App__ Developments
 * 100: __Linux OS__ Developments
 * 100: __Linux App__ Development
 * 100: __Full Stack__ Developments
@@ -130,4 +111,34 @@
 * 100: __Raspberry Pi__ Platform Developments
 * 100: __8051 Microcontrollers__ Developments
 * 100: __8080 Microcontrollers__ Developments
+* 100: __8081 Microcontrollers__ Developments
+
+
+## Creative Concepts ##
+
+### Buiilds ###
+
+* __MiniMe__: ASRock A520M-ITX/ac motherboard and Windows OS
+* __Fatal1ty__: ASRock BB360 Gaming K4 motherboard and Windows OS
+* __GoldenBoy__: MSI B450 Gaming Pro Carbon AC motherboard and Windows OS
+
+### Researcch ###
+
+* __FTL Drive__: Apparent faster-than-light travel
+* __StarDrive__: A hypothetical power source that uses a sun 
+* __Warp Bubble__: A region of flat space that surrounds a spaceship 
+* __AntiGravity__: A hypothetical object that is free from the force of gravity
+* __SuperSpectral__: hypothetical process in which kinetic energy can convey information
+* __InfraLuminal__: hypothetical process in which information is conveyed on the sub-atom level
+* __SuperLuminal__: hypothetical process in which information is conveyed at faster-than-light speeds 
+
+### Inventions ###
+
+* __BrainWave Transceiver__: Basic brain wave reader with precision accuracy
+* __Wireless Energy__: Free wireless energy with a strong power reception
+* __Electro-Pneumatic Turbine Engine__: This is a car engine that runs on air
+* __Quantum Flux Processor__: Quantum flux processor matrix logical unit
+* __HaloGram Projector__: A holo-generator projection materialization unit
+* __TV Lens__: Contact lenses with built-in TV screens that allow viewing
+* __HyperDrive Matrix__: EM drive technology for space travel one day soon
 
