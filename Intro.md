@@ -6,7 +6,7 @@ In the beginning, there is always a struggle to grasp the task at hand and adapt
 The ability to engineer software goes beyond mere code writing. It encompasses a multifaceted skill set that combines technical 
 prowess, problem-solving acumen, and effective collaboration.
 
-Proficiency in Programming Languages is a must a strong grasp of languages like Java, Python, C++, or JavaScript is fundamental. 
+Proficiency in Programming Languages is a must, a strong grasp of languages like Java, Python, C++, or JavaScript is fundamental. 
 Understanding coding principles—such as syntax, control structures, and error handling—across languages is equally important.
 
 Software Development and Lifecycle Management involves navigating the entire software development lifecycle (SDLC) from 
