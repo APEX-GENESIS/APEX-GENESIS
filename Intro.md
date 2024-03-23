@@ -56,5 +56,5 @@ ether. So, fellow sorcerer, may your code be elegant, your bugs few, and your ma
 
 
 
-                                                                                      sincerely,
-                                                                                          George Clarke
+                                                                                                                         sincerely,
+                                                                                                                              George Clarke
