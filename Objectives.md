@@ -1,117 +1,130 @@
 # MASTER OBJECTIVES #
 
-# Objective Tasks #
+## Objective Tasks ##
 
-## Inventions ##
-
-* BrainWave Tranciever: basic brain wave reader with precision accuracy
-* Wireless Energy: free wireless energy with a strong power reception
-* Electro-Pneumatic Turbine Engine: this is a car engine that runs on air
-* Quantum Flux Processor: quantum flux processor matrix logical unit
-* HaloGram Projector: a holo-generator projection materialization unit
-* TV Lens: contact lenses with built-in TV screens that allow viewing
-* HyperDrive Matrix: em drive technology for space travel one day soon
+### Buiilds ###
 
 
-# Software Architecture #
+### Inventions ###
 
-## Development ##
+* __BrainWave Transceiver__: basic brain wave reader with precision accuracy
+* __Wireless Energy__: free wireless energy with a strong power reception
+* __Electro-Pneumatic Turbine Engine__: this is a car engine that runs on air
+* __Quantum Flux Processor__: quantum flux processor matrix logical unit
+* __HaloGram Projector__: a holo-generator projection materialization unit
+* __TV Lens__: contact lenses with built-in TV screens that allow viewing
+* __HyperDrive Matrix__: em drive technology for space travel one day soon
+  
 
-* 100: C 2D games
-* 100: C# 2D games
-* 100: GO 2D games
-* 100: C++ 2D games
-* 100: ASM 2D games
-* 100: .NET 2D games
-* 100: Java 2D games
-* 100: Rust 2D games
-* 100: REST 2D games
-* 100: Ruby 2D games
-* 100: Flask 2D games
-* 100: Django 2D games
-* 100: Python 2D games
-* 100: Vue.js 2D games
-* 100: PySpark 2D games
-* 100: React.js 2D games
-* 100: .NET Core 2D games
-* 100: Angular.js 2D games
-* 100: JavaScript 2D games
-* 100: TypeScript 2D games
-* 100: SQL Server Databases
-* 100: React Native 2D games
-* 100: MySQL Server Databases
-* 100: MongoDB Server Databases
+## Software Architecture ##
 
-## Collaborate ##
+### Development ###
 
-* 100: AWS developments
-* 100: GCP developments
-* 100: Azure developments
-* 100: Agile developments
-* 100: RDBMS developments
-* 100: Groovy developments
-* 100: DevOps developments
-* 100: Web App developments
-* 100: Jenkins developments
-* 100: Linux OS developments
-* 100: Linux App developments
-* 100: Linux UI/X developments
-* 100: Full Stack developments
-* 100: Spring Boot developments
-* 100: Linux Package developments
-* 100: Mobile Platform developments
+* 100: __C__ 2D games
+* 100: __C#__ 2D games
+* 100: __GO__ 2D games
+* 100: __C++__ 2D games
+* 100: __ASM__ 2D games
+* 100: __.NET__ 2D games
+* 100: __Java__ 2D games
+* 100: __Rust__ 2D games
+* 100: __REST__ 2D games
+* 100: __Ruby__ 2D games
+* 100: __Flask__ 2D games
+* 100: __Django__ 2D games
+* 100: __Python__ 2D games
+* 100: __Vue.js__ 2D games
+* 100: __PySpark__ 2D games
+* 100: __React.js__ 2D games
+* 100: __.NET Core__ 2D games
+* 100: __Angular.js__ 2D games
+* 100: __JavaScript__ 2D games
+* 100: __TypeScript__ 2D games
+* 100: __SQL Server__ Databases
+* 100: __React Native__ 2D games
+* 100: __MySQL Server__ Databases
+* 100: __MongoDB Server__ Databases
+
+### Collaborate ###
+
+* 100: __AWS__ developments
+* 100: __GCP__ developments
+* 100: __Azure__ developments
+* 100: __Agile__ developments
+* 100: __RDBMS__ developments
+* 100: __Groovy__ developments
+* 100: __DevOps__ developments
+* 100: __Web App__ developments
+* 100: __Jenkins__ developments
+* 100: __Linux OS__ developments
+* 100: __Linux Appv developments
+* 100: __Linux UI/Xv developments
+* 100: __Full Stack__ developments
+* 100: __Spring Boot__ developments
+* 100: __Linux Package__ developments
+* 100: __Mobile Platform__ developments
 
 
-# Hardware Architecture #
+## Hardware Architecture ##
 
-## Engineer ##
+### Engineer ###
 
-* 100: PIC platform developments
-* 100: AVR platform developments
-* 100: IoT platform developments
-* 100: RTOS platform developments
-* 100: STMB platform developments
-* 100: MIPS platform developments
-* 100: ICUB platform developments
-* 100: TKey platform developments
-* 100: CUBIT platform developments
-* 100: STM32 Platform developments
-* 100: Intel platform developments
-* 100: Radio platform developments
-* 100: D-Star platform developments
-* 100: RISC-V platform developments
-* 100: E-Puck platform developments
-* 100: Atmega platform developments
-* 100: Chumby platform developments
-* 100: Novena platform developments
-* 100: SpyKey platform developments
-* 100: Thymio platform developments
-* 100: Arduino platform developments
-* 100: ESP8266 platform developments
-* 100: NodeMCU platform developments
-* 100: OpenROV platform developments
-* 100: NitroKey platform developments
-* 100: Maximite platform developments
-* 100: NetDuino platform developments
-* 100: AdaFruit platform developments
-* 100: SparkFun platform developments
-* 100: Parallax platform developments
-* 100: RobotCub platform developments
-* 100: OpenRAVE platform developments
-* 100: Freeduino platform developments
-* 100: BusPirate platform developments
-* 100: OpenSPARC platform developments
-* 100: OpenPOWER platform developments
-* 100: HackRF_One platform developments
-* 100: ArduCopter platform developments
-* 100: Parallella platform developments
-* 100: PandaBoard platform developments
-* 100: SnapDragon platform developments
-* 100: BeagleBone platform developments
-* 100: turrisOmnia platform developments
-* 100: MicroPython platform developments
-* 100: ThinkerForge platform developments
-* 100: Raspberry Pi platform developments
-* 100: 8051 Microcontrollers developments
-* 100: 8080 Microcontrollers developments
+* 100: __PIC__ platform developments
+* 100: __AVR__ platform developments
+* 100: __IoT__ platform developments
+* 100: __RTOS__ platform developments
+* 100: __STMB__ platform developments
+* 100: __MIPS__ platform developments
+* 100: __ICUB__ platform developments
+* 100: __TKey__ platform developments
+* 100: __CUBIT__ platform developments
+* 100: __STM32__ Platform developments
+* 100: __Intel__ platform developments
+* 100: __Radio__ platform developments
+* 100: __PC532__ platform developments
+* 100: __D-Star__ platform developments
+* 100: __RISC-V__ platform developments
+* 100: __E-Puck__ platform developments
+* 100: __Atmega__ platform developments
+* 100: __Chumby__ platform developments
+* 100: __Novena__ platform developments
+* 100: __SpyKey__ platform developments
+* 100: __Thymio__ platform developments
+* 100: __IGEPv2__ platform developments
+* 100: __Rascal__ platform developments
+* 100: __HiFive__ platform developments
+* 100: __Arduino__ platform developments
+* 100: __ESP8266__ platform developments
+* 100: __NodeMCU__ platform developments
+* 100: __OpenROV__ platform developments
+* 100: __Minimig__ platform developments
+* 100: __NanoNote__ platform developments
+* 100: __96Boards__ platform developments
+* 100: __NitroKey__ platform developments
+* 100: __Maximite__ platform developments
+* 100: __NetDuino__ platform developments
+* 100: __AdaFruit__ platform developments
+* 100: __SparkFun__ platform developments
+* 100: __Parallax__ platform developments
+* 100: __RobotCub__ platform developments
+* 100: __OpenRAVE__ platform developments
+* 100: __BananaPi__ platform developments
+* 100: __Simputer__ platform developments
+* 100: __OLinuXino__ platform developments
+* 100: __Freeduino__ platform developments
+* 100: __BusPirate__ platform developments
+* 100: __OpenSPARC__ platform developments
+* 100: __OpenPOWER__ platform developments
+* 100: __HackRF_One__ platform developments
+* 100: __ArduCopter__ platform developments
+* 100: __Parallella__ platform developments
+* 100: __PandaBoard__ platform developments
+* 100:__SnapDragon__ platform developments
+* 100: __BeagleBone__ platform developments
+* 100: __TurrisOmnia__ platform developments
+* 100: __MicroPython__ platform developments
+* 100: __ThinkerForge__ platform developments
+* 100: __Raspberry Pi__ platform developments
+* 100: __8051 Microcontrollers__ developments
+* 100: __8080 Microcontrollers__ developments
 
